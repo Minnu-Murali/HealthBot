@@ -1,0 +1,95 @@
+timestamp,patient_report,specialist,severity,location,zip,min_rating,matched_doctors
+2025-06-25T23:52:50.792272,"I have sharp pain in my right eye and blurred vision. I think I need to consult an eye specliast.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Ophthalmologist,8,Munich,80331,3,3
+2025-06-25T23:53:04.049715,"I have sharp pain in my right eye and blurred vision. I think I need to consult an eye specliast.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Ophthalmologist,7,Munich,80331,5,0
+2025-06-25T23:53:15.607194,"I have sharp pain in my right eye and blurred vision. I think I need to consult an eye specliast.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Ophthalmologist,8,Munich,80331,0,3
+2025-06-25T23:53:52.793551,"I have itching on my skin. I think I need to consult an skinspecliast.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Dermatologist,5,Munich,80331,0,4
+2025-06-25T23:54:08.254090,"I have itching on my skin. I think I need to consult an skinspecliast.
+
+",Dermatologist,5,Los Angeles,90001,0,0
+2025-06-25T23:54:16.352617,"I have itching on my skin. I think I need to consult an skin specliast.
+
+",Dermatologist,5,Miami,33101,0,0
+2025-06-25T23:54:40.445817,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+
+
+",Ophthalmologist,7,Munich,80331,4,1
+2025-06-25T23:54:53.112253,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+
+
+",Ophthalmologist,8,Munich,80331,3,3
+2025-06-25T23:55:01.048306,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+
+
+",Ophthalmologist,7,Munich,80331,4,1
+2025-06-25T23:57:26.573241,"I have sharp pain in my right eye and blurred vision. I think I need to consult an eye specialist.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Ophthalmologist,8,Munich,80331,0,3
+2025-06-25T23:57:49.058386,"I have sharp pain in my right eye and blurred vision. I think I need to consult an eye specialist.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Ophthalmologist,8,Munich,80331,4,1
+2025-06-25T23:58:06.142823,"I have sharp pain in my right eye and blurred vision. I think I need to consult an eye specialist.
+I’m based in Munich",Ophthalmologist,8,Munich,,5,0
+2025-06-25T23:58:52.007311,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich ",Ophthalmologist,7,Munich,,3,3
+2025-06-26T00:08:56.134304,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Ophthalmologist,8,Munich,80331,0,True,2
+2025-06-26T00:16:25.920766,"I have sharp pain in leg. I think I need to consult an orthopedic.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Orthopedic,8,Munich,80331,0,True,0
+2025-06-26T00:16:35.608275,"I have sharp pain in leg. I think I need to consult an orthopedic.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Orthopedic,8,Munich,80331,0,False,4
+2025-06-26T00:17:41.900808,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Ophthalmologist,7,Munich,80331,0,True,2
+2025-06-26T00:20:46.413144,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Ophthalmologist,7,Munich,80331,0,False,3
+2025-06-26T00:20:58.864653,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Ophthalmologist,8,Munich,80331,4,True,1
+2025-06-26T00:39:59.220383,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Ophthalmologist,8,Munich,80331,0,3
+2025-06-26T00:40:19.670083,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Ophthalmologist,7,Munich,80331,3,3
+2025-06-26T00:43:58.760809,"I have severe rashes on my skin. I think I need to consult a skin doctor.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Dermatologist,7,Munich,80331,0,4
+2025-06-26T00:44:10.720836,"I have severe rashes on my skin. I think I need to consult a skin doctor.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Dermatologist,7,Munich,80331,4,3
+2025-06-26T00:44:21.783167,"I have mild rashes on my skin. I think I need to consult a skin doctor.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Dermatologist,3,Munich,80331,4,3
+2025-06-26T00:47:14.126379,"I have mild rashes on my skin. I think I need to consult a skin doctor.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Dermatologist,3,Munich,80331,0,4
+2025-06-26T00:47:29.583057,"I have mild rashes on my skin. I think I need to consult a skin doctor.
+I’m based in Munich but can also travel to zip code 80331 if needed.",Dermatologist,3,Munich,80331,4,3
+2025-06-26T06:52:54.196960,"The paitent is suffering from severe shoulder pain inthe  right side, he needed to get an appointment  for a doctor related to bone . his location is in Munich. and he needed a high rating doctor ",Orthopedic Surgeon,8,Munich,,0,0
+2025-06-26T06:53:38.408175,"The paitent is suffering from severe shoulder pain inthe  right side, he needed to get an appointment  for a doctor related to bone . his location is in Munich. and he needed a high rating doctor ",Orthopedist,8,Munich,,4,0
+2025-06-26T06:54:06.907402,"The paitent is suffering from severe shoulder pain inthe  right side, he needed to get an appointment  for a doctor related to bone . his location is in Munich. and he needed a high rating doctor ",Orthopedic Surgeon,8,Munich,,0,0
+2025-06-26T06:55:10.874677,"The patient is suffering from severe shoulder pain on the right side; he needs to get an appointment  for a doctor related to bone. His location is in Munich, and the zip code is 80332. And he needed a high-rating doctor ",Orthopedic Surgeon,8,Munich,80332,0,0
+2025-06-26T06:55:20.465327,"The patient is suffering from severe shoulder pain on the right side; he needs to get an appointment  for a doctor related to bone. His location is in Munich, and the zip code is 80332. And he needed a high-rating doctor ",Orthopedic Doctor,8,Munich,80332,4,0
+2025-06-26T06:55:48.519259,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Ophthalmologist,8,Munich,80331,4,1
+2025-06-26T06:55:55.928417,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Ophthalmologist,7,Munich,80331,3,3
+2025-06-26T06:57:55.436942,"The patient has rashes in the skin. he needed to consult a skin doctor. The patient is based in Munich but can also travel to zip code 80331 if needed.
+",Dermatologist,6,Munich,80331,3,4
+2025-06-26T06:58:10.619596,"The patient has rashes in the skin. he needed to consult a skin doctor. The patient is based in Munich but can also travel to zip code 80333 if needed.
+",Dermatologist,5,Munich,80333,3,4
+2025-06-26T07:05:01.982260,"The patient has rashes in the skin. he needed to consult a skin doctor. The patient is based in Munich but can also travel to zip code 80333 if needed.
+",Dermatologist,5,Munich,80333,3,4
+2025-06-26T07:05:13.905415,"The patient has skin rashes, so he needed to consult a skin doctor. The patient is based in Munich but can also travel to zip code 80333 if needed.
+",Dermatologist,6,Munich,80333,3,4
+2025-06-26T09:27:13.082661,"I have sharp pain in my right eye and blurred vision. I think I need to consult an ophthalmologist.
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Ophthalmologist,7,Munich,80331,0,3
+2025-06-26T09:28:48.635701,"I have rashes in my skin . I think I need to consult an skin doctor
+I’m based in Munich but can also travel to zip code 80331 if needed.
+",Dermatologist,5,Munich,80331,0,4

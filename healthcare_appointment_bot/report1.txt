@@ -1,0 +1,4 @@
+Patient Name: Anna Schmitt
+Symptoms: Pain in lower back and swelling
+Doctor’s Feedback: Needs to consult an Orthopedic specialist. Seems urgent.
+Location: Berlin, 10115

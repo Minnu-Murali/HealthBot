@@ -1,0 +1,16 @@
+Doctor Name,Specialist,City/Zip,Available Slot,Rating
+Dr. Anna Schmidt,Orthopedic,Munich / 80331,2,3
+Dr. Leon Becker,Orthopedic,Munich / 80331,2,4.2
+Dr. Peter Neumann,Orthopedic,Munich / 80331,3,3.7
+Dr. Maria Neumann,Orthopedic,Hamburg / 20095,1,4.8
+Dr. Max Müller,Orthopedic,Munich / 80331,3,3.6
+Dr. Lukas Weber,Dermatologist,Munich / 80331,2,4.3
+Dr. Max Schneider,Dermatologist,Munich / 80331,1,3.2
+Dr. Lukas Zimmermann,Dermatologist,Munich / 80331,2,4.4
+Dr. Lukas Weber,Dermatologist,Munich / 80331,3,4.1
+Dr. Maria Müller,Dermatologist,Hamburg / 20095,2,4.4
+Dr. Laura Becker,Ophthalmologist,Munich / 80331,1,3.1
+Dr. Sophia Schneider,Ophthalmologist,Munich / 80331,1,3.8
+Dr. Peter Wolf,Ophthalmologist,Munich / 80331,3,4.8
+Dr. Laura Zimmermann,Ophthalmologist,Hamburg / 20095,1,3
+Dr. Sophia Zimmermann,Ophthalmologist,Berlin / 10115,1,5
